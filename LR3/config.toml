@@ -1,0 +1,11 @@
+[App]
+filename = "data.csv"
+
+[temperature]
+stats = ["min", "max", "jumps"]
+
+[humidity]
+stats = ["average", "median"]
+
+[pressure]
+stats = ["jumps", "max"]
