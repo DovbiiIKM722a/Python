@@ -1,0 +1,20 @@
+{
+    "temperature": {
+        "average": 20.47,
+        "min": 15.0,
+        "max": 28.9,
+        "jumps": [
+            "2025-11-01T12:00"
+        ]
+    },
+    "humidity": {
+        "average": 59.32,
+        "jumps": [
+            "2025-11-01T12:00"
+        ]
+    },
+    "pressure": {
+        "average": 99950.83,
+        "median": 100085.0
+    }
+}
